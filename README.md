@@ -12,11 +12,9 @@ Please install the dependencies according to the requirements.txt file.
 
 ##### 2. Run code
 
-    ```
+    
     Training phase:python train.py 
-    ```
-    ```
     Testing phase:python test.py 
-    ```
+    
 
 
